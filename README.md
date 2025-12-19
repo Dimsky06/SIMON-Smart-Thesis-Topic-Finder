@@ -1,65 +1,65 @@
 # 🎓 SIMON (Smart Thesis Topic Finder)
 
-> **Sistem Pakar Cerdas untuk Rekomendasi Topik Skripsi Mahasiswa**
+> **Intelligent Expert System for Student Thesis Topic Recommendations**
 
 ![Project Banner](assets/landing%20page.jpeg)
 
-## 📖 Tentang Proyek
+## 📖 About The Project
 
-**SIMON** adalah aplikasi desktop berbasis **Sistem Pakar (Expert System)** yang dirancang untuk membantu mahasiswa Teknik Informatika dalam menentukan topik skripsi yang sesuai dengan minat dan kemampuan mereka.
+**SIMON** is a desktop application based on an **Expert System** designed to assist Informatics Engineering students in determining thesis topics that align with their interests and abilities.
 
-Seringkali mahasiswa merasa bingung dalam menentukan arah Tugas Akhir. Aplikasi ini hadir sebagai solusi dengan menggunakan metode **Forward Chaining** untuk menganalisis jawaban user dan memberikan rekomendasi topik yang presisi (AI, RPL, Jaringan, IoT, atau Data Science).
+Students often face confusion when deciding the direction of their Final Project. This application serves as a solution by utilizing the **Forward Chaining** method to analyze user responses and provide precise topic recommendations (AI, Software Engineering, Networking, IoT, or Data Science).
 
-Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah di **Politeknik Negeri Jakarta**.
-
----
-
-## 🚀 Fitur Utama
-
-✅ **Expert System Consultation**: Tanya jawab cerdas untuk menggali minat mahasiswa.
-✅ **Smart Recommendation**: Algoritma *Forward Chaining* untuk hasil yang akurat.
-✅ **User Management**: Fitur Registrasi, Login, dan Pengelolaan Profil yang aman.
-✅ **History Tracking**: Menyimpan riwayat konsultasi sebelumnya.
-✅ **Report Generation**: Mencetak hasil rekomendasi ke dalam format dokumen/PDF.
+This project was developed as part of the coursework at **Politeknik Negeri Jakarta** (State Polytechnic of Jakarta).
 
 ---
 
-## 📸 Galeri Aplikasi
+## 🚀 Key Features
 
-Berikut adalah tampilan antarmuka dari aplikasi SIMON:
+✅ **Expert System Consultation**: Intelligent Q&A session to explore student interests.
+✅ **Smart Recommendation**: Uses *Forward Chaining* algorithm for accurate results.
+✅ **User Management**: Secure Registration, Login, and Profile Management features.
+✅ **History Tracking**: Saves and displays previous consultation records.
+✅ **Report Generation**: Exports recommendation results to document/PDF format.
 
-### 1. Registrasi & Login
-Halaman awal untuk akses keamanan pengguna.
+---
 
-| Halaman Sign Up | Halaman Login |
+## 📸 Application Gallery
+
+Here is a glimpse of the SIMON user interface:
+
+### 1. Registration & Login
+Secure access pages for user authentication.
+
+| Sign Up Page | Login Page |
 | :---: | :---: |
 | ![Sign Up Page](assets/sign%20up.jpeg) | ![Login Page](assets/login.jpeg) |
 
-### 2. Menu Utama (Dashboard)
-Pusat navigasi untuk mengakses fitur konsultasi dan riwayat.
+### 2. Main Menu (Dashboard)
+The navigation hub to access consultation and history features.
 
 ![Home Menu](assets/home%20menu.jpeg)
 
-### 3. Riwayat Konsultasi (History)
-Melihat kembali jejak rekomendasi yang pernah didapatkan.
+### 3. Consultation History
+Review past topic recommendations.
 
 ![History Page](assets/history.jpeg)
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Tech Stack
 
-* **Bahasa Pemrograman**: C#
+* **Programming Language**: C#
 * **Framework**: Microsoft .NET Framework 4.7.2
 * **Database**: MySQL
 * **Tools**: Visual Studio, XAMPP
-* **Metode**: Forward Chaining (Rule-Based System)
+* **Method**: Forward Chaining (Rule-Based System)
 
 ---
 
-## 👥 Tim Pengembang (Kelompok 5)
+## 👥 Development Team (Group 5)
 
-Proyek ini disusun oleh mahasiswa **TI 3A - Politeknik Negeri Jakarta**:
+This project was created by students of **TI 3A - Politeknik Negeri Jakarta**:
 
 * 👨‍💻 **Dimas Eka Maulana**
 * 👨‍💻 **Farras Iqbal Tawakal**
@@ -68,16 +68,16 @@ Proyek ini disusun oleh mahasiswa **TI 3A - Politeknik Negeri Jakarta**:
 
 ---
 
-## ⚙️ Cara Menjalankan
+## ⚙️ How to Run
 
-1.  Clone repository ini.
-2.  Import database MySQL yang tersedia di folder `database/` ke localhost (XAMPP).
-3.  Buka file solution (`.sln`) menggunakan Visual Studio.
-4.  Sesuaikan konfigurasi koneksi database.
-5.  Jalankan aplikasi (Start/F5).
+1.  Clone this repository.
+2.  Import the MySQL database provided in the `database/` folder to your localhost (XAMPP).
+3.  Open the solution file (`.sln`) using Visual Studio.
+4.  Adjust the database connection configuration if necessary.
+5.  Run the application (Start/F5).
 
 ---
 
 <p align="center">
-  Dibuat dengan ❤️ oleh Kelompok 5 TI-PNJ
+  Made with ❤️ by Group 5 TI-PNJ
 </p>
