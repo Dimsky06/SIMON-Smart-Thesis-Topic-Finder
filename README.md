@@ -1,65 +1,78 @@
 # 🎓 SIMON (Smart Thesis Topic Finder)
 
-> **Sistem Pakar Cerdas untuk Rekomendasi Topik Skripsi Mahasiswa**
+> **Intelligent Expert System for Student Thesis Topic Recommendations**
 
 ![Project Banner](assets/landing%20page.jpeg)
 
-## 📖 Tentang Proyek
-
-**SIMON** adalah aplikasi desktop berbasis **Sistem Pakar (Expert System)** yang dirancang untuk membantu mahasiswa Teknik Informatika dalam menentukan topik skripsi yang sesuai dengan minat dan kemampuan mereka.
-
-Seringkali mahasiswa merasa bingung dalam menentukan arah Tugas Akhir. Aplikasi ini hadir sebagai solusi dengan menggunakan metode **Forward Chaining** untuk menganalisis jawaban user dan memberikan rekomendasi topik yang presisi (AI, RPL, Jaringan, IoT, atau Data Science).
-
-Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah di **Politeknik Negeri Jakarta**.
-
----
-
-## 🚀 Fitur Utama
-
-✅ **Expert System Consultation**: Tanya jawab cerdas untuk menggali minat mahasiswa.
-✅ **Smart Recommendation**: Algoritma *Forward Chaining* untuk hasil yang akurat.
-✅ **User Management**: Fitur Registrasi, Login, dan Pengelolaan Profil yang aman.
-✅ **History Tracking**: Menyimpan riwayat konsultasi sebelumnya.
-✅ **Report Generation**: Mencetak hasil rekomendasi ke dalam format dokumen/PDF.
+<p align="center">
+  <br>
+  <b>Project Overview & Key Features Summary:</b><br>
+  <a href="assets/deskripsi.jpeg" target="_blank">
+    <img src="assets/deskripsi.jpeg" alt="SIMON Project Infographic Poster" width="85%"/>
+  </a>
+  <br>
+</p>
 
 ---
 
-## 📸 Galeri Aplikasi
+## 📖 About The Project
 
-Berikut adalah tampilan antarmuka dari aplikasi SIMON:
+**SIMON** (Smart Thesis Topic Finder) is a desktop-based information system designed to function as a monitoring and consultation tool. It specifically assists Informatics Engineering students in determining suitable thesis topics based on their individual interests and capabilities.
 
-### 1. Registrasi & Login
-Halaman awal untuk akses keamanan pengguna.
+Students often face confusion when deciding the direction of their final project. This application serves as a comprehensive solution by utilizing an **Expert System** with a **Forward Chaining** method. It analyzes user responses to structured questions to provide precise, rule-based topic recommendations (such as AI, Software Engineering, Networking, IoT, or Data Science).
 
-| Halaman Sign Up | Halaman Login |
+This project was developed as part of the coursework at **Politeknik Negeri Jakarta** (State Polytechnic of Jakarta).
+
+---
+
+## 🚀 Key Features
+
+As highlighted in the project poster above, the main features include:
+
+✅ **Rule-Based Expert System**: Utilizes structured rules to determine outcomes.
+✅ **Interactive Consultation**: Question-and-answer based assessment to gauge student interests.
+✅ **Inference Process**: Generates accurate recommendations based on user input.
+✅ **History Tracking**: Securely stores previous consultation records for future reference.
+✅ **Report Generation (Print)**: Exports consultation results into physical or digital documents.
+
+---
+
+## 📸 Application Gallery
+
+Here is a glimpse of the SIMON user interface:
+
+### 1. Registration & Login
+Secure access pages for user authentication.
+
+| Sign Up Page | Login Page |
 | :---: | :---: |
 | ![Sign Up Page](assets/sign%20up.jpeg) | ![Login Page](assets/login.jpeg) |
 
-### 2. Menu Utama (Dashboard)
-Pusat navigasi untuk mengakses fitur konsultasi dan riwayat.
+### 2. Main Menu (Dashboard)
+The navigation hub to access consultation and history features.
 
 ![Home Menu](assets/home%20menu.jpeg)
 
-### 3. Riwayat Konsultasi (History)
-Melihat kembali jejak rekomendasi yang pernah didapatkan.
+### 3. Consultation History
+Review past topic recommendations.
 
 ![History Page](assets/history.jpeg)
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Tech Stack
 
-* **Bahasa Pemrograman**: C#
+* **Programming Language**: C#
 * **Framework**: Microsoft .NET Framework 4.7.2
 * **Database**: MySQL
 * **Tools**: Visual Studio, XAMPP
-* **Metode**: Forward Chaining (Rule-Based System)
+* **Method**: Forward Chaining (Rule-Based System)
 
 ---
 
-## 👥 Tim Pengembang (Kelompok 5)
+## 👥 Development Team (Group 5)
 
-Proyek ini disusun oleh mahasiswa **TI 3A - Politeknik Negeri Jakarta**:
+This project was created by students of **TI 3A - Politeknik Negeri Jakarta**:
 
 * 👨‍💻 **Dimas Eka Maulana**
 * 👨‍💻 **Farras Iqbal Tawakal**
@@ -68,16 +81,16 @@ Proyek ini disusun oleh mahasiswa **TI 3A - Politeknik Negeri Jakarta**:
 
 ---
 
-## ⚙️ Cara Menjalankan
+## ⚙️ How to Run
 
-1.  Clone repository ini.
-2.  Import database MySQL yang tersedia di folder `database/` ke localhost (XAMPP).
-3.  Buka file solution (`.sln`) menggunakan Visual Studio.
-4.  Sesuaikan konfigurasi koneksi database.
-5.  Jalankan aplikasi (Start/F5).
+1.  Clone this repository.
+2.  Import the MySQL database provided in the `database/` folder to your localhost (XAMPP).
+3.  Open the solution file (`.sln`) using Visual Studio.
+4.  Adjust the database connection configuration if necessary in the project settings.
+5.  Run the application (Start/F5).
 
 ---
 
 <p align="center">
-  Dibuat dengan ❤️ oleh Kelompok 5 TI-PNJ
+  Made with ❤️ by Group 5 TI-PNJ
 </p>
