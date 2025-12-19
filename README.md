@@ -74,10 +74,10 @@ Review past topic recommendations.
 
 This project was created by students of **TI 3A - Politeknik Negeri Jakarta**:
 
-* 👨‍💻 **Dimas Eka Maulana**
-* 👨‍💻 **Farras Iqbal Tawakal**
-* 👩‍💻 **Novita Syaifani**
-* 👨‍💻 **Raden Pramadityo Nugroho**
+* 👨‍💻 **Dimas Eka Maulana (Team leader)**
+* 👨‍💻 **Farras Iqbal Tawakal (Back-End)**
+* 👩‍💻 **Novita Syaifani (System Analyst)**
+* 👨‍💻 **Raden Pramadityo Nugroho (Front End)**
 
 ---
 
@@ -92,5 +92,6 @@ This project was created by students of **TI 3A - Politeknik Negeri Jakarta**:
 ---
 
 <p align="center">
-  Made with ❤️ by Group 5 TI-PNJ
+  Made with ❤️ by Group 5 TI_3A
 </p>
+
